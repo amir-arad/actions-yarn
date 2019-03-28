@@ -1,9 +1,9 @@
 FROM node:10-slim
 
 LABEL version="1.0.0"
-LABEL repository="https://github.com/Borales/actions-yarn"
-LABEL homepage="https://github.com/Borales/actions-yarn"
-LABEL maintainer="Oleksandr Bordun <bordun.alexandr@gmail.com>"
+LABEL repository="https://github.com/amir-arad/actions-yarn"
+LABEL homepage="https://github.com/amir-arad/actions-yarn"
+LABEL maintainer="Amir Arad <greenshade@gmail.com>"
 
 LABEL com.github.actions.name="GitHub Action for Yarn"
 LABEL com.github.actions.description="Wraps the yarn CLI to enable common yarn commands."
